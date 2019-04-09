@@ -1,0 +1,12 @@
+
+
+node_modules/
+
+tablas/*.*
+
+
+*.docx
+
+app.js
+
+app2.js

@@ -1,0 +1,15 @@
+{
+  "name": "3-basesnode",
+  "version": "2.0.0",
+  "description": "Esta es una aplicación de linea de comando",
+  "main": "app3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MVM",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^13.2.2"
+  }
+}
